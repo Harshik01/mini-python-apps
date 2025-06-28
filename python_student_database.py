@@ -1,7 +1,9 @@
 students = [
     {"name": "Aman", "marks": 89},
     {"name": "Harshik", "marks": 95},
-    {"name": "Sara", "marks": 72}
+    {"name": "Sara", "marks": 72},
+    {"name": "Neha", "marks": 67},
+    {"name": "Zara", "marks": 92}
 ]
 def get_grade(marks):
     if marks >= 90:
